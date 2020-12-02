@@ -1,5 +1,4 @@
-[#ann, short="Life of Anne Camm"]
-== A Short Account of the Life of Anne Camm, A Minister of the Gospel, In the Society of Friends.
+== The Life of Anne Camm
 
 Anne Newby, the daughter of Richard Newby, of the parish of Kendal, in Westmoreland,
 a family of good repute, was born in the eighth month, 1627.
@@ -19,7 +18,7 @@ who often met together for Divine worship, sometimes sitting in silence,
 at others holding religious conference, and frequently were engaged in fervent prayer.
 At these meetings John Audland sometimes attended,
 though he lived at a considerable distance--his mind being attracted
-there by a desire to partake of that spiritual food,
+thither by a desire to partake of that spiritual food,
 which, through the goodness of the Lord, was at times dispensed among them.
 Anne Newby and he becoming acquainted, were married about the year 1650,
 and in 1652 attended the memorable meeting held by George Fox, at Fairbank chapel,
@@ -28,12 +27,12 @@ and they both joined the Society of Friends.
 John Audland had previously been a preacher among the dissenters,
 and his wife was esteemed a woman of great piety;
 but coming more fully under the operation of that baptism,
-which is with the Holy Spirit and fire, it wrought powerfully upon them,
+which is with the Holy Ghost and fire, it wrought powerfully upon them,
 preparing their hearts as empty vessels, washed and sanctified,
 for the reception of the Lord`'s gifts;
 and in the following year they both came forth in the work of the ministry,
 to the edification and comfort of their friends, and the convincement of many others.
-She was in all respects a valuable help-mate, and co-labourer with her worthy husband;
+She was in all respects a valuable help-meet, and co-labourer with her worthy husband;
 endeared to him by similarity of disposition and pursuits,
 and by the higher and stronger tie of heavenly love.
 In the occupancy of the gifts thus committed to them, they were indefatigable labourers,
@@ -76,8 +75,7 @@ she performed a journey through Yorkshire, Derbyshire, Leicester, and into Oxfor
 At Banbury they went to the place of public worship;
 but the people dragged them out of the house in a rude and violent manner,
 and abused them in the yard; and the priest passing by,
-Anne Audland called his attention to it by saying,
-"`Behold the fruits of your ministry.`"
+Anne Audland called his attention to it by saying, "`Behold the fruits of thy ministry.`"
 Next morning they were brought before the mayor,
 and two witnesses procured to swear that she had spoken blasphemy.
 From the peculiar temperament of the public mind at that time,
@@ -89,8 +87,7 @@ in the hope of inflicting severe penalties.
 On the information of these accusers, Anne Audland was committed to prison,
 and her companion dismissed.
 After some days,
-two reputable inhabitants of the town gave bond for
-her appearance at the ensuing court sessions,
+two reputable inhabitants of the town gave bond for her appearance at the ensuing assizes,
 and she was set at liberty.
 
 Indefatigable in the performance of her Lord`'s service,
@@ -99,7 +96,7 @@ of life and salvation in Banbury and its vicinity;
 and through the power and seal of the Holy Spirit attending her ministry,
 numbers were convinced of the truths she preached,
 and turned to the grace of God in their own hearts,
-which brings salvation through Christ Jesus the Lord.
+which bringeth salvation through Christ Jesus the Lord.
 Among these were her two bondsmen, who with several others, joined the Society of Friends.
 The establishment of a large meeting in Banbury,
 and several others in the adjacent country,
@@ -112,7 +109,7 @@ which was dearer to her than kindred or life.
 The success which attended her labours, provoked the persecutors,
 and they threatened she should be burnt.
 Her enemies being greatly exasperated, and having considerable influence on their side,
-several Friends thought it a duty to attend the court sessions,
+several Friends thought it a duty to attend the assizes,
 and by their sympathy and assistance, as well as their countenance,
 to encourage and support her in maintaining the cause of Truth and righteousness.
 Her husband, John Camm, Thomas Camm, and several others from London and Bristol,
@@ -124,7 +121,7 @@ In speaking to the priest of Banbury, she had observed,
 that "`true words might be false in the mouths of
 some who spoke them,`" alluding to the wicked;
 and quoting in proof and explanation of her meaning,
-the language of the Prophet Jeremiah; "`Though they say the Lord lives,
+the language of the Prophet Jeremiah; "`Though they say the Lord liveth,
 surely they swear falsely.`"
 From these expressions they manufactured the charge of denying that God lived;
 but when the evidence came to be examined, it did not prove what her enemies designed.
@@ -214,6 +211,9 @@ which made the trial of their separation more severe to the bereaved widow;--yet
 she sustained it with Christian fortitude and resignation to the Divine will,
 and in a tribute to her husband`'s memory, which she penned, thus speaks:
 
+[.embedded-content-document.testimony]
+--
+
 "`God, who by his providence joined us together in marriage in our young days,
 in his blessed counsel also caused his day to spring from on high upon us;
 in the marvellous light and shining whereof, he revealed his Son in us,
@@ -232,6 +232,8 @@ My tongue or pen is not able to set forth my sorrow; yet in this I content mysel
 that it was the will of the Lord to take him away from the evil to come,
 and that my loss, though great, is not to be compared to his eternal gain.`"
 
+--
+
 After remaining a widow between two and three years,
 Anne Audland was married to Thomas Camm, son of John Camm,
 the intimate friend and faithful companion of her former husband.
@@ -245,7 +247,7 @@ Amid the various and severe trials which attended them,
 they found their religion to be an unfailing support to their minds,
 and a source of peace and enjoyment,
 of which the malice and cruelty of persecutors could not deprive them,
-realizing the truth of that saying of Holy Scripture,
+realizing the truth of that saying of Holy Writ,
 "`We know that all things work together for good, to them that love God.`"
 
 Anne Camm had her share in the sufferings of that trying day;
@@ -290,7 +292,7 @@ of righteousness--serving the church of Christ faithfully for many years afterwa
 Although she was deservedly held in honourable esteem for her works`' sake,
 as well as her many virtues and endowments, natural and spiritual,
 yet she was preserved in humility, not doing her works to be seen of men,
-but rather seeking retirement, and desiring that "`honour which comes from God only.`"
+but rather seeking retirement, and desiring that "`honour which cometh from God only.`"
 It was her practice often to retire alone into her closet, or some other private place,
 and there wait on the Lord in fervent prayer, to seek his counsel and approbation;
 and also to set apart some time daily,
@@ -338,20 +340,20 @@ being affected with sorrow at the prospect of being deprived of so valuable
 a companion--with a noble fortitude she endeavoured to console and encourage
 him to submit with cheerful resignation to the Divine will;
 saying, "`My dear, if it be the good pleasure of the Lord, who joined us together,
-and has blessed us hitherto, now to separate us, I entreat you to be content,
-and give me freely up to the Lord, for you know we must part; and if I go first,
+and has blessed us hitherto, now to separate us, I entreat thee to be content,
+and give me freely up to the Lord, for thou knowest we must part; and if I go first,
 it is only what I have desired of the Lord many a time.
 I believe the consideration of the desolate condition I should be left in,
-if I survived you, will induce you more freely to commit me to the Lord, whose I am,
+if I survived thee, will induce thee more freely to commit me to the Lord, whose I am,
 and whom I have loved, feared, and served, with an upright heart, all my days:
 his unspeakable peace I now enjoy, and his saving health is my portion forever.
-I pray you, be content with what the Lord pleases to do with me;
+I pray thee, be content with what the Lord pleases to do with me;
 whether it be life or death, his holy will be done.
 Let us leave all to the Lord, and however it be, all will be well.
-I have loved you with my soul, and God has blessed us,
-and he will bless you and be with you, and make up all your losses.
-Death is gain to me, though it be your loss; and I hope, for the sake of my gain,
-you will bear your loss with patience.
+I have loved thee with my soul, and God has blessed us,
+and he will bless thee and be with thee, and make up all thy losses.
+Death is gain to me, though it be thy loss; and I hope, for the sake of my gain,
+thou wilt bear thy loss with patience.
 I bless the Lord, I am prepared for my change.
 I am full of assurance of eternal salvation, and of receiving a crown of glory,
 through my dear Lord and Saviour Jesus Christ,
@@ -391,18 +393,18 @@ as clear as ever.--How should it be otherwise,
 since my peace is made with God, through the Lord Jesus Christ.
 I have no disturbance of mind, and my understanding and judgment is clear.
 It were sad, indeed, to lie under affliction of body and of mind also;
-to feel pinching pangs of body, even to death, and to lack peace with God.
+to feel pinching pangs of body, even to death, and to want peace with God.
 O! that would be intolerable.
 O! let my soul praise the Lord, for his peace and plenteous redemption.`"
 
-It being proposed to send for her son-in-law, who was skilled in medicine,
+It being proposed to send for her son-in-law, who was skilled in physic,
 and her daughter, she seemed unwilling; saying to her husband,
 "`Be not careful in the matter--the Lord my God is near me,
-and I have your company--it is enough; and all will be well if this lump of clay,
+and I have thy company--it is enough; and all will be well if this lump of clay,
 in which I dwell, is dissolved.
 I have full assurance of a house and dwelling, of which God is the maker,
 that will never wax old or be dissolved.
-O! my soul, bless the Lord, and be glad in his salvation forevermore.`"
+O! my soul, bless thou the Lord, and be glad in his salvation forevermore.`"
 
 Her illness increased--and many Friends coming to see her,
 she was often engaged in exhorting them respecting the work of the soul`'s salvation.
@@ -419,23 +421,23 @@ and it is well if some die not in it, and never see the promised land.`"
 About two days before her decease,
 she gave much good advice to her grandchildren and servants,
 and thus addressed her husband; "`My dear,
-you have spent much time and strength in serving the cause of Truth and your friends;
-your reward with God is sure.
-I never grudged your absence in that good service;
+thou hast spent much time and strength in serving the cause of Truth and thy friends;
+thy reward with God is sure.
+I never grudged thy absence in that good service;
 and if it now be the time of our parting, as I think it will,
-I desire you to free yourself from the things of the world as much as may be,
-that you may, with the more freedom,
-pursue your honourable service for Truth to the end of your days.
-I trust the Lord will give you strength to travel again, and warn all,
+I desire thee to free thyself from the things of the world as much as may be,
+that thou mayest, with the more freedom,
+pursue thy honourable service for Truth to the end of thy days.
+I trust the Lord will give thee strength to travel again, and warn all,
 but especially the rich, to keep low, and not be high-minded;
 for humility and holiness are the badge of our profession.
 God Almighty keep us all, low and humble--it is a safe and blessed state.
-One thing I beg of you--give me up freely to the Lord.
+One thing I beg of thee--give me up freely to the Lord.
 The Lord joined us and gave us to each other,
 let us bless his name if he now take us from each other, as to the outward--this is all;
 for our joining in spirit remains forever.
 O! therefore, let me go easy out of this world,
-where I have had a great share of trouble many ways, as you know,
+where I have had a great share of trouble many ways, as thou knowest,
 and go to that haven of rest, where I have a full assurance of entering.`"
 
 A little before she died she was attacked with fainting; and after reviving, observed,
@@ -445,12 +447,12 @@ Again, she said,
 and therefore, I labour hard to be swallowed up in immortal life,
 and to be made possessor of that rest, which cannot be disturbed,
 where sorrow will cease forever.
-O! my soul, this is your glorious portion,
-therefore bless the Lord and wait patiently his appointed season.`"
+O! my soul, this is thy glorious portion,
+therefore bless thou the Lord and wait patiently his appointed season.`"
 
 Soon after she desired to be raised up in the bed, and her pains increasing,
 she grew very weak and faint, and observed,
-"`It seems I grow weak and cold--my hands and feet are very cold, but my heart is strong,
+"`Methinks I grow weak and cold--my hands and feet are very cold, but my heart is strong,
 and before it yields I must meet with sharper pains than I have yet felt.
 My God has hitherto laid a gentle hand upon me.`"
 
@@ -471,7 +473,7 @@ am concerned--not so much for his outward state here;
 for that, however miserable, will quickly end; but the misery of the soul,
 separated from God, will never end.
 And, my dear, though our counsel has not had the desired effect,
-yet I do entreat you to remain a father to him,
+yet I do entreat thee to remain a father to him,
 and counsel him again and again--leave him not to run on in the way of misery,
 but labour and pray for his return.
 My love is to his wife; I desire she may mind heavenly things;
@@ -495,13 +497,13 @@ Mine is sure--I have not been negligent, and my day`'s work is done.`"
 
 Apprehending that the hand of death was upon her, and finding her pain increased,
 she earnestly besought the Lord to help her through the last conflict; saying,
-"`O my God--O my God, you have not forsaken me--blessed be your name, forever.
+"`O my God--O my God, thou hast not forsaken me--blessed be thy name, forever.
 O my blessed Lord and Saviour, who suffered for me and for all mankind,
-great pains in your holy body upon the cross, remember me, your poor handmaid,
+great pains in thy holy body upon the cross, remember me, thy poor handmaid,
 in this my great bodily affliction.
-My trust is in you--my hope is in you only, my dear Lord.
+My trust is in thee--my hope is in thee only, my dear Lord.
 O come, come, dear Lord Jesus, come quickly and receive my soul.
-To you I yield it up--help me now, in my bitter pangs.`"
+To thee I yield it up--help me now, in my bitter pangs.`"
 
 Her husband now kneeled down by her and prayed that the Lord would make her passage easy,
 and their prayers were graciously heard and answered.
